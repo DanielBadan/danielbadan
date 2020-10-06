@@ -12,7 +12,7 @@ Besides my primary work, starting summer 2016, I've joined the team at GirlsGoIT
 ### Amdaris
 
 - [Northstar](https://northstar.ai/) - the landing page as well as the web app
-- [nkoda](https://nkoda.com/) - \the landing page
+- [nkoda](https://nkoda.com/) - the landing page
 
 ### VS Art
 
