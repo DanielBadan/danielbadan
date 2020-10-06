@@ -2,5 +2,13 @@ Hey y'all, I'm Daniel! I'm a Software Engineer at Crunchyroll in Chișinău, Mol
 
 Besides my primary work, starting summer 2016, I've joined the team at GirlsGoIT as a mentor at their events. During those boot camps and summer camps, I've been responsible for teaching girls, mostly from high school, the basics of web development, the main scope being an extra boost of motivation for choosing a career in tech.
 
-## My little portfolio/projects i've worked on
+## My little portfolio/projects I've worked on
 
+
+### VS Art
+
+- [VSResume - Online CV / Resume Template](https://themes.vsart.me/vsresume/)
+- [Paradise Cakes - eCommerce Landing Page](https://themes.vsart.me/cakes/)
+- [Odiss - Travel/Booking Landing Page](https://themes.vsart.me/odiss/)
+- [EatLand - eCommerce Landing Page](https://themes.vsart.me/eatland/)
+- [Triablo - eCommerce Landing Page](https://themes.vsart.me/triablo)
