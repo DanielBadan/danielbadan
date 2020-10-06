@@ -4,6 +4,15 @@ Besides my primary work, starting summer 2016, I've joined the team at GirlsGoIT
 
 ## My little portfolio/projects I've worked on
 
+### Crunchyroll
+
+- [Crunchyroll](https://www.crunchyroll.com/) - maintenance and development
+- [VRV](https://vrv.co/) - maintenance and development
+
+### Amdaris
+
+- [Northstar](https://northstar.ai/) - the landing page as well as the web app
+- [nkoda](https://nkoda.com/) - \the landing page
 
 ### VS Art
 
