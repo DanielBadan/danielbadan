@@ -6,7 +6,7 @@ After that, I landed at Amdaris and worked there for about three years. Besides 
 
 Finally, Crunchyroll, the place where fun/entertainment meets work. It's a lot of joy to work here, especially as I'm a fan of anime and manga myself. Here I work on maintaining and developing Crunchyroll which often includes some PHP adjustemnts, maintaining and developing the VRV web app and some internal projects.
 
-Besides my primary work, starting summer 2016, I've joined the team at GirlsGoIT as a mentor at their events. During those boot camps and summer camps, I've been responsible for teaching girls, mostly from high school, the basics of web development, the main scope being an extra boost of motivation for choosing a career in tech.
+Besides my primary work, starting 2017, I've joined the team at GirlsGoIT as a mentor at their events. During those boot camps and summer camps, I've been responsible for teaching girls, mostly from high school, the basics of web development, the main scope being an extra boost of motivation for choosing a career in tech.
 
 ## My little portfolio/projects I've worked on
 
