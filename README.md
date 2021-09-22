@@ -12,7 +12,8 @@ Besides my primary work, starting 2017, I've joined the team at GirlsGoIT as a m
 
 ### Crunchyroll
 
-- [Crunchyroll](https://www.crunchyroll.com/) - maintenance and development
+- [Classic Crunchyroll](https://www.crunchyroll.com/) - maintenance and development
+- [Beta Crunchyroll](https://www.crunchyroll.com/) - development
 - [VRV](https://vrv.co/) - maintenance and development
 
 ### Amdaris
