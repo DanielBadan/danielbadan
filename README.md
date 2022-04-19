@@ -8,7 +8,7 @@ Finally, Crunchyroll, the place where fun/entertainment meets work. It's a lot o
 
 Besides my primary work, starting 2017, I've joined the team at GirlsGoIT as a mentor at their events. During those boot camps and summer camps, I've been responsible for teaching girls, mostly from high school, the basics of web development, the main scope being an extra boost of motivation for choosing a career in tech.
 
-## My little portfolio/projects I've worked on
+## My portfolio/projects I've worked on
 
 ### Crunchyroll
 
